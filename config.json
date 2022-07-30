@@ -5,7 +5,7 @@
     "botName": "Loly'Botz",
     "footer": "Rama - Loly'Botz",
     "sessionName": "session",
-    "pathimg": "./media/Haruka.jpg",
+    "pathimg": "./media/haruka.jpg",
     "BotKey": "V12",
     "auto_welcomeMsg": true,
     "auto_leaveMsg": true,    
